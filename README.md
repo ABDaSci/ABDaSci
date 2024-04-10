@@ -1,5 +1,5 @@
-#  " Not all data is science, but all true science is data."              
-> By A. Baptiste 2024.
+#  "All science is data, but not all data is science."              
+> Data Science Labist. 2024.
 
 
 

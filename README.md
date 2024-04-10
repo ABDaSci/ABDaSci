@@ -4,7 +4,7 @@
 
 
 
-### Using Data Science tools to do the heavy lifting, for work, business, and discovery.
+### Data Science tools dog the heavy lifting, for work, for business, for discovery.
 
 
 

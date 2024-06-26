@@ -13,7 +13,7 @@
 
 I am currently enrolled with CoGrammar and HyperionDev.
 
-### Stay in touch [LinkedIn Profile] (https://www.linkedin.com/in/adanma-baptiste-7399a211/).
+### Find me [LinkedIn Profile] (https://www.linkedin.com/in/adanma-baptiste-7399a211/).
 <!--
 **ABDaSci/ABDaSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,7 +11,7 @@
 
 ![Screenshot of the logo, added in the Markdown, showing rays of light & the words The Data Science Labist.](![image](https://github.com/ABDaSci/ABDaSci/assets/163061408/e195842a-aa8c-456e-adb7-308bf7e4fab9)
 
-I am currently enrolled with CoGrammar and HyperionDev.
+I have been enrolled with CoGrammar on HyperionDev's Data Science programm.
 
 ### Find me [LinkedIn Profile] (https://www.linkedin.com/in/adanma-baptiste-7399a211/).
 <!--

@@ -13,7 +13,7 @@
 
 I have been enrolled with CoGrammar on HyperionDev's Data Science programm.
 
-### Find me [LinkedIn Profile] (https://www.linkedin.com/in/adanma-baptiste-7399a211/).
+### Find me here [LinkedIn Profile] (https://www.linkedin.com/in/adanma-baptiste-7399a211/).
 <!--
 **ABDaSci/ABDaSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
